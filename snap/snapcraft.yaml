@@ -11,7 +11,7 @@ description: |
 adopt-info: copilot-desktop
 grade: stable
 confinement: strict
-base: core24
+base: core22
 contact: https://github.com/kenvandine/copilot-desktop/issues
 issues: https://github.com/kenvandine/copilot-desktop/issues
 website: https://github.com/kenvandine/copilot-desktop
